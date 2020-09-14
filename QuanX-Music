@@ -1,4 +1,8 @@
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜1
+http = 106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜1
+http = taron.top:100, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜2
+http = music.griouges.cn:39000, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜3
+Shadowsocks = music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜4
+Shadowsocks = music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜5
 shadowsocks = 61.164.109.218:21607, method=rc4-md5, password=ngIF8Qs52OSElP6x, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜2
 shadowsocks = 61.164.109.218:21608, method=rc4-md5, password=ngIF8Qs52OSElP6x, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜3
 shadowsocks = netease-hhht.wcc.best:58080, method=rc4-md5, password=T5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜4
