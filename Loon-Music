@@ -1,12 +1,4 @@
-🎧𝐌𝐮𝐬𝐢𝐜1 = http,106.52.127.72,19951
-🎧𝐌𝐮𝐬𝐢𝐜2 = http,taron.top,100
-🎧𝐌𝐮𝐬𝐢𝐜3 = http,music.griouges.cn,39000
-🎧𝐌𝐮𝐬𝐢𝐜4 = Shadowsocks,61.164.109.218,21607,rc4-md5,"ngIF8Qs52OSElP6x"
-🎧𝐌𝐮𝐬𝐢𝐜5 = Shadowsocks,61.164.109.218,21608,rc4-md5,"ngIF8Qs52OSElP6x"
-🎧𝐌𝐮𝐬𝐢𝐜6 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-🎧𝐌𝐮𝐬𝐢𝐜7 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-🎧𝐌𝐮𝐬𝐢𝐜8 = Shadowsocks,netease-hhht.wcc.best,58080,rc4-md5,"T5ckndbLSXHQ"
-🎧𝐌𝐮𝐬𝐢𝐜9 = Shadowsocks,netease-hhht.wcc.best,58081,rc4-md5,"T5ckndbLSXHQ"
+🎧𝐌𝐮𝐬𝐢𝐜 = http,106.52.127.72,19951
 
 
 
