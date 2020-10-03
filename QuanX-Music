@@ -1,9 +1,1 @@
-http = 106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜1
-shadowsocks = 163.plusmedia.xeton.dev:58080, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜2
-shadowsocks = 163.plusmedia.xeton.dev:58081, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜3
-shadowsocks = 99.83.196.141:58080, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜4
-shadowsocks = 99.83.196.141:58081, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜5
-shadowsocks = netease-jp.wcc.best:58080, method=rc4-md5, password=ngIF8Qs52OSElP6x, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜6
-shadowsocks = netease-jp.wcc.best:58081, method=rc4-md5, password=ngIF8Qs52OSElP6x, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜7
-shadowsocks = netease-hhht.wcc.best:58080, method=rc4-md5, password=T5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜8
-shadowsocks = netease-hhht.wcc.best:58081, method=rc4-md5, password=T5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜9
+http = 106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜
