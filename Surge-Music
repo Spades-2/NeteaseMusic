@@ -1,0 +1,5 @@
+🎧ℳ𝓊𝓈𝒾𝒸 = http, 106.52.127.72, 19951, tls=false, skip-cert-verify=0, tfo=false, udp-relay=false
+🎧ℳ𝓊𝓈𝒾𝒸2 = ss, proxy.plusmedia.site, 58080, encrypt-method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, tfo=false, udp-relay=false
+🎧ℳ𝓊𝓈𝒾𝒸3 = ss, proxy.plusmedia.site, 58081, encrypt-method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, tfo=false, udp-relay=false
+🎧ℳ𝓊𝓈𝒾𝒸4 = ss, netease-hhht.wcc.best, 58080, encrypt-method=rc4-md5, password=T5ckndbLSXHQ, tfo=false, udp-relay=false
+🎧ℳ𝓊𝓈𝒾𝒸5 = ss, netease-hhht.wcc.best, 58081, encrypt-method=rc4-md5, password=T5ckndbLSXHQ, tfo=false, udp-relay=false
