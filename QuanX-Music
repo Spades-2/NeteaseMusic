@@ -1,5 +1,2 @@
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸
-shadowsocks = proxy.plusmedia.site:58080, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸2
-shadowsocks = proxy.plusmedia.site:58081, method=rc4-md5, password=ieG9l1nte5eo7IBZas84jLi, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸3
-shadowsocks = netease-hhht.wcc.best:58080, method=rc4-md5, password=T5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸4
-shadowsocks = netease-hhht.wcc.best:58081, method=rc4-md5, password=T5ckndbLSXHQ, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸5
+http=81.69.243.30:8848, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧ℳ𝓊𝓈𝒾𝒸2
