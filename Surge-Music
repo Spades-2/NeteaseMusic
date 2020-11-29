@@ -1,5 +1,5 @@
 🎧ℳ𝓊𝓈𝒾𝒸 = http, 81.69.243.30, 19980, tls=false, skip-cert-verify=0, tfo=false, udp-relay=false
 🎧ℳ𝓊𝓈𝒾𝒸2 = http, 118.31.35.14, 19980, tls=false, skip-cert-verify=0, tfo=false, udp-relay=false
 🎧ℳ𝓊𝓈𝒾𝒸3 = http, 106.52.127.72, 19951, tls=false, skip-cert-verify=0, tfo=false, udp-relay=false
-🇭🇰 NeteaseUnblock-HK-PC = ss, 202.91.33.25, 19982, encrypt-method=chacha20-ietf-poly1305, password=password@, tfo=false, udp-relay=false
+🇭🇰 NeteaseUnblock-HK-PC = ss, 202.91.33.25, 19982, encrypt-method=aes-128-cfb, password=password@, tfo=false, udp-relay=false
 🎧ℳ𝓊𝓈𝒾𝒸4 = http, 202.91.33.25, 19980, tls=false, skip-cert-verify=0, tfo=false, udp-relay=false
